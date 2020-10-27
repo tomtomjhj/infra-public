@@ -10,3 +10,4 @@ sudo bash -c "echo 'deb-src https://apt.hamonikr.org jin main upstream' >> /etc/
 
 sudo snap install --classic code
 sudo ubuntu-drivers install
+sudo apt upgrade
